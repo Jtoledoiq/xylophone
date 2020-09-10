@@ -38,7 +38,6 @@
                                 <color key="backgroundColor" red="0.94509803921568625" green="0.76862745098039209" blue="0.058823529411764705" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <connections>
                                     <action selector="notePressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Jwh-07-rxM"/>
-                                    <action selector="pressingsss:" destination="BYZ-38-t0r" eventType="touchUpInside" id="WEB-G7-vnm"/>
                                 </connections>
                             </button>
                             <button opaque="NO" tag="4" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jAj-d0-19d" userLabel="Key4">
